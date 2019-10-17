@@ -2,10 +2,12 @@
 	"project_name": "Qiwi удвоитель",
 	"desc": "Хотели бы удвоить ваш баланс на Qiwi-кошельке? С нашим проектом это не проблема!<br>С нашим проектом вы можете сделать депозит и получить обратно в 2 раза больше!",
 	"success_desc": "Ожидайте в течении 24 часов!<br>",
+	"fail_desc": "Ошибка платежа!",
 	"main": "DoubleQiwi",
-	"min_sum": 100,
+	"min_sum": 250,
 	"secret": "fsfds",
 	"shop_id": 12,
 	"vk": "uzbek",
-	"start_time": 1571267988
+	"start_time": 1571267988,
+	"fk": "<a href='//showstreams.tv/'><img src='//www.free-kassa.ru/img/fk_btn/14.png' title='Бесплатный видеохостинг'></a>"
 }
