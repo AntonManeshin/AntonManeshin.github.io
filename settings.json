@@ -5,8 +5,8 @@
 	"fail_desc": "Ошибка платежа!",
 	"main": "Удвоитель денег",
 	"min_sum": 250,
-	"secret": "d6470dd03bb97e37913c12bf74cbec55",
-	"shop_id": 359,
+	"secret": "nvutiml",
+	"shop_id": 141393,
 	"vk": "doubleqiwifun",
 	"start_time": 1571267988,
 	"fk": ""
